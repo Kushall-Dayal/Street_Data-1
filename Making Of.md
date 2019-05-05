@@ -4,9 +4,9 @@ Link: https://public.tableau.com/profile/kushall.dayal#!/vizhome/Book1street-lig
 
 This visualization tends to look on the bigger picture of the traffic violations in Chicago.. The *surprising* thing I found out was Zipcodes:*60612,60629,60640* have low speed violations but very high Street Light violations. The take away is that only speed violations should not be counted upon for measuring street violations. This visualization was done by merging two data sets that included information on speed camera violations and red-light violations. Then the violations of each type were mapped to see the effect of each other’s presence.
 
-**Visualization 1**: Red circles depict speed cameras and Black triangles depict red light cameras.
+**Visualization 1**: The map depicts the spatial arrangement of the cameras .Red circles depict speed cameras and Black triangles depict red light cameras.
 
-**Visualization 2**: This is an interactive dashboard. The areas are highlighted on the map based on the zip code; the bar chart depicts the number of speed and red light violations in each zip code. Selecting the area on the map shows the violations done in each area.
+**Visualization 2**: This is an interactive dashboard. The areas are highlighted on the map based on the zip code; the bar chart depicts the number of speed and red light violations . Selecting the area on the map shows the violations done in the area selected.
 
 **Visualization 3**: The visualization depicts the total number of violations done in each zip code. Red color depicts the speed camera violations and black color depicts red light violations.  
 #
