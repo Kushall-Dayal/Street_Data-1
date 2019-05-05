@@ -9,7 +9,7 @@ This visualization tends to look on the bigger picture of the traffic violations
 **Visualization 2**: This is an interactive dashboard. The areas are highlighted on the map based on the zip code; the bar chart depicts the number of speed and red light violations in each zip code. Selecting the area on the map shows the violations done in each area.
 
 **Visualization 3**: The visualization depicts the total number of violations done in each zip code. Red color depicts the speed camera violations and black color depicts red light violations.  
-
+#
 **Aspect no.2**: Violations on weekdays by Zipcode
 
 Link: https://public.tableau.com/profile/kushall.dayal#!/vizhome/Violationsonweekdays/Sheet6?publish=yes
@@ -24,7 +24,7 @@ This aspect hovers over the violations by each weekday. Interesting fact about t
 
 **Visualization 4**: This is an exploratory analysis which tends to find the number camera in each zip code.
  
-
+#
 **Aspect no.3**: Violations by age
 
 Link: https://public.tableau.com/profile/kushall.dayal#!/vizhome/age_15570385436330/Dashboard1?publish=yes
